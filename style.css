@@ -1,0 +1,147 @@
+
+
+h1{
+   color: rgb(0,126,197);
+   font-family: sans-serif;
+   font-size: 50px;
+   line-height: 56px;
+   vertical-align: baseline;
+   letter-spacing: normal;
+   word-spacing: 0px;
+   margin-left:30px;
+   padding:20px;
+   font-weight: 700;
+}
+p{
+    color: rgb(88,85,85);
+    font-family: sans-serif;
+    font-size: 15px;
+    line-height: 27.8571px;
+    vertical-align: baseline;
+    letter-spacing: normal;
+    word-spacing: 0px;
+    margin: 25px;
+    padding: 30px;
+    font-weight: 400px;
+    line-height: 20px;
+    margin-top: -50px;
+    
+    
+
+}
+button{
+    color: rgb(255, 253, 253);
+    outline: auto;
+    background-color: #3f7ec5;
+    font-size: 15px;
+    border-radius: 50px;
+    border-color: #3f7ec5;
+    margin-right: 30px;
+    padding: 12px 30px ;
+    font-family: sans-serif;
+    font-weight: 400;
+    margin-left:55px;
+}
+
+.discode{
+    height: 364px;
+    width: 555px;
+    margin-left: 420px;
+    padding: 166px;
+    margin-top: -540px;
+
+}
+.container{
+    overflow: hidden;
+}
+.logo img{
+    width: 180px;
+    margin-left:10px ;
+}
+.checkbtn{
+    font-size: 30px;
+    color: #3f7ec5;
+    float: right;
+    line-height: 80px;
+    margin-right: -40px;
+    cursor: pointer;
+    display: none;
+}
+#check{
+    display: none;
+}
+
+.nav-links{
+    margin-left: 400px;
+}
+.btn1{
+    margin-left: 120px;
+    background-color: #3f7ec5;
+    border-radius: 40px;
+    color: white;
+}
+.husnain{
+    border-radius: 40px;
+    margin-left: 35px;
+}
+/* .peoples{
+    margin-top: -500px;
+    padding: 100px;
+    
+} */
+
+.queries-section{
+    margin-top: 10%;
+
+}
+     
+@media (max-width: 768px) {
+    .nav-links{
+        margin-left: 300px;
+    }
+  .link{
+    margin-left: 300px;
+  }
+}
+@media (max-width: 425px) {
+    .nav-links{
+        margin-left: 200px !important;
+    }
+  .link{
+    margin-right: 200px !important;
+  }
+}
+h2{
+    text-align: center;
+    color: #353535;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+   
+
+}
+.pa{
+    text-align: center;
+   
+}
+h3{
+    margin-left: 60px;
+    
+}
+.sh{
+    overflow: hidden;
+    border: 1px color(srgb rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0));
+
+}
+
+@media (width:768px) {
+    .we_do_all{
+        text-align: center;
+        margin-bottom: 100px;
+    }
+}
+.xl{
+    overflow: hidden;
+}
+div{
+    overflow: hidden;
+}
