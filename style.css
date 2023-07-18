@@ -90,11 +90,9 @@ button{
     
 } */
 
-.queries-section{
+/* .queries-section{
     margin-top: 10%;
-
-}
-     
+}    */
 @media (max-width: 768px) {
     .nav-links{
         margin-left: 300px;
@@ -111,6 +109,7 @@ button{
     margin-right: 200px !important;
   }
 }
+
 h2{
     text-align: center;
     color: #353535;
@@ -154,4 +153,158 @@ div{
     text-align: center;
     color: #353535;
     font-size: 60px;
+    
+}
+@media (max-width:425px) {
+    h2{
+        text-align: center;
+        color: #353535;
+        font-family: sans-serif;
+        margin-bottom: 10px;
+       width: auto;
+    
+    }
+    .pa{
+        text-align: center;
+       width: auto;
+    }
+    h3{
+        margin-left: 60px;
+        width: auto;
+    }
+    .sh{
+        overflow: hidden;
+        border: 1px color(srgb rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0));
+    width: auto;
+    }
+    
+    @media (width:768px) {
+        .we_do_all{
+            text-align: center;
+            margin-bottom: 100px;
+            width: auto;
+        }
+    }
+    .xl{
+        overflow: hidden;
+        width: auto;
+    }
+    div{
+        overflow: hidden;
+        width: auto;
+    }
+    .ka{
+        text-align: center;
+        color:black;
+        font-size: 60px;
+        width: auto;
+    }
+    .ku{
+        text-align: center;
+        color: #353535;
+        font-size: 60px; 
+        width: auto;
+}
+}
+@media (max-width:375px) {
+    @media (max-width:425px) {
+        h2{
+            text-align: center;
+            color: #353535;
+            font-family: sans-serif;
+            margin-bottom: 10px;
+           width: auto;
+        
+        }
+        .pa{
+            text-align: center;
+           width: auto;
+        }
+        h3{
+            margin-left: 60px;
+            width: auto;
+        }
+        .sh{
+            overflow: hidden;
+            border: 1px color(srgb rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0));
+        width: auto;
+        }
+        
+  
+            .we_do_all{
+                text-align: center;
+                margin-bottom: 100px;
+                width: auto;
+            }
+        }
+        .xl{
+            overflow: hidden;
+            width: auto;
+        }
+        div{
+            overflow: hidden;
+            width: auto;
+        }
+        .ka{
+            text-align: center;
+            color:black;
+            font-size: 60px;
+            width: auto;
+        }
+        .ku{
+            text-align: center;
+            color: #353535;
+            font-size: 60px; 
+            width: auto;
+}
+}
+@media (max-width:320px) {
+    @media (max-width:425px) {
+        h2{
+            text-align: center;
+            color: #353535;
+            font-family: sans-serif;
+            margin-bottom: 10px;
+           width: auto;
+        
+        }
+        .pa{
+            text-align: center;
+           width: auto;
+        }
+        h3{
+            margin-left: 60px;
+            width: auto;
+        }
+        .sh{
+            overflow: hidden;
+            border: 1px color(srgb rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0));
+        width: auto;
+        }
+       .we_do_all{
+                text-align: center;
+                margin-bottom: 100px;
+                width: auto;
+            }
+        }
+        .xl{
+            overflow: hidden;
+            width: auto;
+        }
+        div{
+            overflow: hidden;
+            width: auto;
+        }
+        .ka{
+            text-align: center;
+            color:black;
+            font-size: 60px;
+            width: auto;
+        }
+        .ku{
+            text-align: center;
+            color: #353535;
+            font-size: 60px; 
+            width: auto;
+}
 }
