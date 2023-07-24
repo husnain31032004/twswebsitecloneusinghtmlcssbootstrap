@@ -87,11 +87,11 @@ button{
 /* .she{
     width: 550px;
 } */
-@media (max-width:1040) {
+@media (max-width:1024px) {
     .btn1{
-        margin-left: 0px;
+        margin-left: 50px;
     }
-    .nav-links{margin-left: -200px !important;
+    .nav-links{margin-left: 200px !important;
         
 }
 }
@@ -101,11 +101,14 @@ button{
         width: 600px !important;
     }
      .she{
-        width: 600px !important;
+        width: 550px !important;
     } 
     /* .u{
         margin-left: 130px;
     } */
+    .gitimg{
+        margin-left: 650px;
+    }
     
 }
 
@@ -119,232 +122,8 @@ button{
     .wer{
         margin-left: -100px;
     }
-}
+} 
 
-/* .peoples{
-    margin-top: -500px;
-    padding: 100px;
-    
-} */
-
-/* .queries-section{
-    margin-top: 10%;
-}    */
-/* @media (max-width: 768px) {
-    .nav-links{
-        margin-left: 300px;
-    }
-  .link{
-    margin-left: 300px;
-  }
-}
-@media (max-width: 425px) {
-    .nav-links{
-        margin-left: 200px !important;
-    }
-  .link{
-    margin-right: 200px !important;
-  }
-}
-
-h2{
-    text-align: center;
-    color: #353535;
-    font-family: sans-serif;
-    margin-bottom: 10px;
-   
-
-}
-.pa{
-    text-align: center;
-   
-}
-h3{
-    margin-left: 60px;
-    
-}
-.sh{
-    overflow: hidden;
-    border: 1px color(srgb rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0));
-
-}
-
-@media (width:768px) {
-    .we_do_all{
-        text-align: center;
-        margin-bottom: 100px;
-    }
-}
-.xl{
-    overflow: hidden;
-}
-div{
-    overflow: hidden;
-}
-.ka{
-    text-align: center;
-    color:black;
-    font-size: 60px;
-}
-.ku{
-    text-align: center;
-    color: #353535;
-    font-size: 60px;
-    
-}
-@media (max-width:425px) {
-    h2{
-        text-align: center;
-        color: #353535;
-        font-family: sans-serif;
-        margin-bottom: 10px;
-       width: auto;
-    
-    }
-    .pa{
-        text-align: center;
-       width: auto;
-    }
-    h3{
-        margin-left: 60px;
-        width: auto;
-    }
-    .sh{
-        overflow: hidden;
-        border: 1px color(srgb rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0));
-    width: auto;
-    }
-    
-    @media (width:768px) {
-        .we_do_all{
-            text-align: center;
-            margin-bottom: 100px;
-            width: auto;
-        }
-    }
-    .xl{
-        overflow: hidden;
-        width: auto;
-    }
-    div{
-        overflow: hidden;
-        width: auto;
-    }
-    .ka{
-        text-align: center;
-        color:black;
-        font-size: 60px;
-        width: auto;
-    }
-    .ku{
-        text-align: center;
-        color: #353535;
-        font-size: 60px; 
-        width: auto;
-}
-}
-@media (max-width:375px) {
-    @media (max-width:425px) {
-        h2{
-            text-align: center;
-            color: #353535;
-            font-family: sans-serif;
-            margin-bottom: 10px;
-           width: auto;
-        
-        }
-        .pa{
-            text-align: center;
-           width: auto;
-        }
-        h3{
-            margin-left: 60px;
-            width: auto;
-        }
-        .sh{
-            overflow: hidden;
-            border: 1px color(srgb rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0));
-        width: auto;
-        }
-        
-  
-            .we_do_all{
-                text-align: center;
-                margin-bottom: 100px;
-                width: auto;
-            }
-        }
-        .xl{
-            overflow: hidden;
-            width: auto;
-        }
-        div{
-            overflow: hidden;
-            width: auto;
-        }
-        .ka{
-            text-align: center;
-            color:black;
-            font-size: 60px;
-            width: auto;
-        }
-        .ku{
-            text-align: center;
-            color: #353535;
-            font-size: 60px; 
-            width: auto;
-}
-}
-@media (max-width:320px) {
-    @media (max-width:425px) {
-        h2{
-            text-align: center;
-            color: #353535;
-            font-family: sans-serif;
-            margin-bottom: 10px;
-           width: auto;
-        
-        }
-        .pa{
-            text-align: center;
-           width: auto;
-        }
-        h3{
-            margin-left: 60px;
-            width: auto;
-        }
-        .sh{
-            overflow: hidden;
-            border: 1px color(srgb rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0));
-        width: auto;
-        }
-       .we_do_all{
-                text-align: center;
-                margin-bottom: 100px;
-                width: auto;
-            }
-        }
-        .xl{
-            overflow: hidden;
-            width: auto;
-        }
-        div{
-            overflow: hidden;
-            width: auto;
-        }
-        .ka{
-            text-align: center;
-            color:black;
-            font-size: 60px;
-            width: auto;
-        }
-        .ku{
-            text-align: center;
-            color: #353535;
-            font-size: 60px; 
-            width: auto;
-}
-} */
 .ka{
     text-align: center;
     font-size: 30px;
@@ -352,21 +131,52 @@ div{
 @media (max-width:320px) {
     .so{
         margin-left: -8px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        text-align: justify;
+        font-size: 10px;
     }
   
     .wer{
         margin-left: -100px;
-        
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        text-align: justify;
+        font-size: 10px;  
     }
     .r{
         text-align: center;
+        justify-content: center;
+        align-items: center;
+        text-align: justify;
+        font-size: 10px;
+    }
+    .onestop{
+        font-size: 20px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        text-align: justify;
+        font-size: 10px;
     }
     .e{
         text-align: center;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        text-align: justify;
+        font-size: 10px;
     }
     .she{
         width: 100px !important;
         margin-top: 15%;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        text-align: justify;
+        font-size: 10px;
     }
     .u{
         width: 270px !important;
@@ -374,18 +184,49 @@ div{
         margin-bottom: 15%;
         text-align: center;
         margin-left: -10px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        text-align: justify;
+        font-size: 10px;
     }
     .sh{
         overflow: hidden;
         margin-right: 100px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        text-align: justify;
+        font-size: 10px;
     }
     .so{
         margin-left: -9.05px !important;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        text-align: justify;
+        font-size: 10px;
     }
-    .h{
+    .gitimg{
+        margin-left: 0;
+        margin-top: 0px !important;
+        width: 300px !important;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        text-align: justify;
+        font-size: 10px;
+    }
+    .onestop{
+        margin-top: 250px !important;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        text-align: justify;
+        font-size: 10px;
+    }
+    }
 
-    }
-}
 @media (max-width:375px) {
     .she{
         text-align: center;
@@ -407,5 +248,14 @@ div{
     }
     .she{
         width: 350px !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .gitimg{
+        margin-top: -81px;
+    }
+    .onestop{
+        margin-top: 400px;
     }
 }
