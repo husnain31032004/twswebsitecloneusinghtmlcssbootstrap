@@ -42,6 +42,12 @@ button{
     font-weight: 400;
     margin-left:55px;
 }
+.y{
+    font-family: sans-serif;
+    margin-left: 0px;
+    margin-top: -420px;
+    font-size: 20px;
+}
 
 .discode{
     height: 364px;
@@ -84,51 +90,16 @@ button{
     border-radius: 40px;
     margin-left: 35px;
 }
-/* .she{
-    width: 550px;
-} */
-@media (max-width:1024px) {
-    .btn1{
-        margin-left: 50px;
-    }
-    .nav-links{margin-left: 200px !important;
-        
+.hs{
+    margin-top: -308px;
 }
+.u{
+    margin-left: 725px;
 }
-@media (max-width: 1440px) {
-   
-    .gitimg{
-        width: 600px !important;
-    }
-     .she{
-        width: 550px !important;
-    } 
-    /* .u{
-        margin-left: 130px;
-    } */
-    .gitimg{
-        margin-left: 650px;
-    }
-    
-}
-
-@media (max-width: 425px) {
-    .footer{
-        overflow: hidden;
-    }
-    .gitimg{
-        width: 300px;
-    }
-    .wer{
-        margin-left: -100px;
-    }
+ .she{
+    margin-left: 688px;
 } 
-
-.ka{
-    text-align: center;
-    font-size: 30px;
-}
-@media (max-width:320px) {
+/* @media (max-width:320px) {
     .so{
         margin-left: -8px;
         text-align: center;
@@ -169,27 +140,34 @@ button{
         text-align: justify;
         font-size: 10px;
     }
-    .she{
-        width: 100px !important;
+     .she{
+        width: 230px !important;
         margin-top: 15%;
         text-align: center;
         justify-content: center;
         align-items: center;
         text-align: justify;
         font-size: 10px;
+        margin-bottom: 320px;
+        margin-left: 50px;
+    } 
+     .y{
+        margin-top: 100.5px;
     }
-    .u{
-        width: 270px !important;
+     .u{
+        width: 295px !important;
         margin-top: 15%;
         margin-bottom: 15%;
         text-align: center;
-        margin-left: -10px;
+        margin-left: 9px;
         text-align: center;
         justify-content: center;
         align-items: center;
         text-align: justify;
         font-size: 10px;
-    }
+        height: 340px;
+        margin-top: 10px;
+    } 
     .sh{
         overflow: hidden;
         margin-right: 100px;
@@ -208,49 +186,120 @@ button{
         font-size: 10px;
     }
     .gitimg{
-        margin-left: 0;
+        margin-left: 0 !important;
         margin-top: 0px !important;
         width: 300px !important;
     }
     .onestop{
         margin-top: 250px !important;
+        font-size: 18px;
         text-align: center;
-        justify-content: center;
-        align-items: center;
-        text-align: justify;
-        font-size: 10px;
+        font-weight: 700;
     }
+    .we_do_all{
+        line-height: 24.8px;
+        font-size: 2px;
     }
+    } */
+/* 
+    @media only screen and (min-width: 600px) {
+         .she{
+            text-align: center;
+            width: 420px !important;
+            margin-top: 15%;
+            margin-left: -60px;
+        } 
+        .u{
+            width: 300px;
+            margin-top: 15%; 
+            text-align: center;
+            margin-bottom: 15%;
+        } 
+        .wer{
+            margin-left: -100px;
+        }
+         .u{
+            margin-left: -18px;
+    
+        }
+        *{
+            background-color: black;
+        }
+    }  */
+         
+    
 
-@media (max-width:375px) {
-    .she{
+    /* @media (max-width: 425px) {
+        .footer{
+            overflow: hidden;
+        }
+        .gitimg{
+            width: 300px;
+        }
+        .wer{
+            margin-left: -100px;
+        }
+    } 
+    
+    .ka{
         text-align: center;
-        width: 350px !important;
-        margin-top: 15%;
+        font-size: 30px;
+    } */
+    /* @media (max-width: 768px) {
+        .gitimg{
+            margin-top: -27px;
+            margin-left: 65px;
+        }
+         .she{
+            margin-left: 95px;
+            margin-bottom: 333px
+        } 
+         .u{
+            margin-left: 181px;
+            margin-bottom: 487px;
+        } 
+        .onestop{
+            margin-top: 400px;
+        }
+        .k{
+            margin-bottom: 97px;
+        } */
+    
+/* @media (max-width:1024px) {
+    .btn1{
+        margin-left: 50px;
     }
-    .u{
-        width: 300px;
-        margin-top: 15%;
-        text-align: center;
-        margin-bottom: 15%;
-    }
-    .wer{
-        margin-left: -100px;
-    }
-    .u{
-        margin-left: -18px;
-
-    }
-    .she{
-        width: 350px !important;
-    }
+    .nav-links{margin-left: 200px !important;
+        
 }
-
-@media (max-width: 768px) {
+  .gitimg{
+    margin-left: 496px;
+  }
+}
+@media (max-width: 1440px) {
+     .she{
+        width: 550px ;
+    } 
+     .u{
+        margin-left: 130px;
+    } 
     .gitimg{
-        margin-top: -81px;
+        margin-left: 750px;
+        width: 500px;
+        overflow: hidden;
     }
-    .onestop{
-        margin-top: 400px;
+    .y{
+        margin-left: 60px;
     }
+    
 }
+
+    } */
+    @media only screen and (max-width: 768px){
+       .g{
+        margin-left: 600px;
+       }
+       .e{
+        margin-top: 294px;
+       }
+    }
